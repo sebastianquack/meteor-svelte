@@ -22,7 +22,7 @@ Package.registerBuildPlugin({
     'find-up': '3.0.0',
     htmlparser2: '3.10.1',
     'source-map': '0.5.6',
-    svelte: '3.31.2',
+    svelte: '3.32.3',
     semver: '5.5.0',
   }
 });
